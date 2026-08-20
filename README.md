@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ege 254</h1>
 <h3 align="center">I'm joined github in 10/02/2024</h3>
 
-- 🔭 I’m currently working on [Ege254](...)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> egeozfirat@gmail.com
